@@ -1,0 +1,47 @@
+.header-area .custom-left{
+	right: 0;
+}
+.sidebar-area{
+  /*background: ;*/
+  /*background: #41464b;*/
+  width: 220px;
+  position: fixed;
+  left: 0;
+  color: white;
+  overflow: auto;
+  height: 100%;
+}
+.sidebar li .submenu{ 
+  list-style: none; 
+  margin: 0; 
+  padding: 0; 
+  padding-left: 1rem; 
+  padding-right: 1rem;
+}
+.sidebar .nav-link {
+    font-weight: 500;
+    color: white;
+    /*color: var(--bs-dark);*/
+}
+.sidebar .nav-link:hover {
+    color: var(--bs-primary);
+}
+.sidebar-show{
+  display: block;
+}
+.left-margin{
+  margin-left: 220px;
+}
+.name-area{
+  width: 220px;
+    background: #000000;
+    color: white;
+    font-weight: bold;
+}
+.menu-toggle{
+    position: absolute;
+    left: 230px;
+}
+.nav-link:after i{
+  color: red;
+}
