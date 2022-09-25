@@ -93,3 +93,7 @@ http://www.compilebd.com
 ## image syntax
 ![My PC](./images/pc.jpg)
   
+## Table syntax
+| SL | Name | E-mail |
+| ---| -----| -------|
+| 01 | Sajol karmakar | sajokar56@gmail.com |
